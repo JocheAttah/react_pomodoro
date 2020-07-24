@@ -1,5 +1,5 @@
 # React Pomodoro App
- ![Snapshot](screen.jpg)
+ ![Snapshot](/img/screen.jpg)
 
 ### live
 yet to post
